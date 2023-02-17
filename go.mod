@@ -3,8 +3,8 @@ module github.com/zerotohero-dev/aegis-init-container
 go 1.20
 
 require (
-	github.com/zerotohero-dev/aegis-core v0.12.56
-	github.com/zerotohero-dev/aegis-sdk-go v0.12.56
+	github.com/zerotohero-dev/aegis-core v0.12.59
+	github.com/zerotohero-dev/aegis-sdk-go v0.12.57
 )
 
 require (
