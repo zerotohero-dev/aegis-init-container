@@ -6,7 +6,7 @@
 #     .\_/.
 #
 
-VERSION=0.12.70
+VERSION=0.13.0
 PACKAGE=aegis-init-container
 REPO=z2hdev/aegis-init-container
 REPO_LOCAL="localhost:5000/aegis-init-container"
